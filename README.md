@@ -1,3 +1,5 @@
+[![StyleCI](https://github.styleci.io/repos/106201322/shield?branch=master)](https://github.styleci.io/repos/106201322)
+
 # simple-money-format
 JQuery Simple Money Format for my personal usage
 
